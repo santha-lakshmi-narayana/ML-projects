@@ -1,1 +1,1 @@
-# ML-projects
+Machine learning projects using python libraries.
