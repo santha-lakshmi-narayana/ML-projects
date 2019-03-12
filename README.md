@@ -1,1 +1,1 @@
-Machine learning projects using python libraries.
+Machine learning Practise Notebooks and Applications
