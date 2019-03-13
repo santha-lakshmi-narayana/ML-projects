@@ -1,0 +1,15 @@
+[{
+  "id": 1,
+  "first_name": "Graehme",
+  "last_name": "Mellsop",
+  "email": "gmellsop0@hexun.com",
+  "gender": "Male",
+  "ip_address": "195.196.132.229"
+}, {
+  "id": 2,
+  "first_name": "Noella",
+  "last_name": "Wrixon",
+  "email": "nwrixon1@usnews.com",
+  "gender": "Female",
+  "ip_address": "122.9.108.238"
+}]

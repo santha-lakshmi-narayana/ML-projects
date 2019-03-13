@@ -1,0 +1,15 @@
+[{
+  "id": 1,
+  "first_name": "Vikki",
+  "last_name": "Paoli",
+  "email": "vpaoli0@marketwatch.com",
+  "gender": "Female",
+  "ip_address": "222.201.214.152"
+}, {
+  "id": 2,
+  "first_name": "Christyna",
+  "last_name": "Dickey",
+  "email": "cdickey1@dell.com",
+  "gender": "Female",
+  "ip_address": "2.203.129.190"
+}]
